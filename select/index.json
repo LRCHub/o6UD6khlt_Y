@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "働く女 (Billboard Live TOKYO)",
+  "base_artist": "マカロニえんぴつ",
+  "createdAt": "2026-02-28T12:58:08.288336Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "働く女",
+      "artist": "マカロニえんぴつ",
+      "has_synced": false,
+      "path": "select/01_働く女_マカロニえんぴつ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "働く女",
+      "artist": "Macaroni Empitsu",
+      "has_synced": false,
+      "path": "select/02_働く女_Macaroni_Empitsu.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "働く女",
+      "artist": "マカロニえんぴつ",
+      "has_synced": false,
+      "path": "select/pl_01_働く女_マカロニえんぴつ.txt"
+    }
+  ]
+}
